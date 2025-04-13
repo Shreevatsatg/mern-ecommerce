@@ -9,10 +9,10 @@ features=>
 
 
 
-front-end ->
+client ->
 react.js + tailwind css
 
-back-end ->
+server ->
 express.js + mongoose
 
 project structure ->
